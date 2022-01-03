@@ -1,0 +1,18 @@
+h2 {
+    color:#6495ed;
+}
+
+.note {
+    color:gray;
+    padding-top: 5px;
+    font-size: 15px;
+
+}
+
+.delete {
+    margin-left: 15px;
+}
+
+.message {
+    color:darkseagreen;
+}
